@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "cam2model"]
+	path = cam2model
+	url = https://github.com/arturosp/cam2model
 [submodule "ecocbo"]
 	path = ecocbo
 	url = https://github.com/arturosp/ecocbo
